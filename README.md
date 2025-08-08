@@ -30,8 +30,8 @@ Dán vào đầu file code của bạn (dưới dạng comment) để được *
 #      ======`-.____`-.___\_____/___.-`____.-'======
 #                         `=---='
 #      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-#               🪷 Phật ngồi thiền giữa màn hình,
-#               Gỡ xong bug chỉ bằng niệm kinh.
+#               🪷 Phật ngồi ở giữa màn hình,
+#               Gỡ xong đống bug chỉ bằng niệm kinh.
 
 ```
 ## 🛠 Áp dụng
