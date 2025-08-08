@@ -2,7 +2,7 @@
 
 ASCII Art Phật tổ giúp tâm tịnh, độ code mượt, bug biến.
 
----
+--
 
 ## 💡 Cách dùng
 
@@ -34,7 +34,7 @@ Dán vào đầu file code của bạn (dưới dạng comment) để được *
 #               Gỡ xong đống bug chỉ bằng niệm kinh.
 
 ```
----
+--
 ## 🛠 Áp dụng
 
 Có thể áp dụng với **bất kỳ ngôn ngữ lập trình nào**, chỉ cần dùng đúng kiểu comment:
@@ -44,7 +44,7 @@ Có thể áp dụng với **bất kỳ ngôn ngữ lập trình nào**, chỉ c
 - `<!-- -->` (HTML, XML)
 - `#` (Python, Bash, YAML, etc.)
 
----
+--
 
 ## 📜 License
 
